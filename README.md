@@ -8,10 +8,6 @@
   <td><a href="https://github.com/serde-rs/bytes/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/serde-rs/bytes/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
-  <td><kbd><b><a href="https://github.com/serde-rs/docs">serde-rs/docs</a></b></kbd></td>
-  <td><a href="https://github.com/serde-rs/docs/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/serde-rs/docs/deploy.yml?branch=master&style=for-the-badge"></a></td>
-</tr>
-<tr>
   <td><kbd><b><a href="https://github.com/serde-rs/example-format">serde-rs/example-format</a></b></kbd></td>
   <td><a href="https://github.com/serde-rs/example-format/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/serde-rs/example-format/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>

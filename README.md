@@ -23,8 +23,4 @@
   <td><kbd><b><a href="https://github.com/serde-rs/serde-rs.github.io">serde-rs/serde-rs.github.io</a></b></kbd></td>
   <td><a href="https://github.com/serde-rs/serde-rs.github.io/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/serde-rs/serde-rs.github.io/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
-<tr>
-  <td><kbd><b><a href="https://github.com/serde-rs/test">serde-rs/test</a></b></kbd></td>
-  <td><a href="https://github.com/serde-rs/test/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/serde-rs/test/ci.yml?branch=master&style=for-the-badge"></a></td>
-</tr>
 </table>

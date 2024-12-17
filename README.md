@@ -16,10 +16,6 @@
   <td><a href="https://github.com/serde-rs/json/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/serde-rs/json/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
 <tr>
-  <td><kbd><b><a href="https://github.com/serde-rs/json-benchmark">serde-rs/json-benchmark</a></b></kbd></td>
-  <td><a href="https://github.com/serde-rs/json-benchmark/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/serde-rs/json-benchmark/ci.yml?branch=master&style=for-the-badge"></a></td>
-</tr>
-<tr>
   <td><kbd><b><a href="https://github.com/serde-rs/serde">serde-rs/serde</a></b></kbd></td>
   <td><a href="https://github.com/serde-rs/serde/actions?query=branch%3Amaster"><img src="https://img.shields.io/github/actions/workflow/status/serde-rs/serde/ci.yml?branch=master&style=for-the-badge"></a></td>
 </tr>
